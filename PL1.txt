@@ -1,3 +1,5 @@
-Programming Lab 1.
+Programming Lab 1: Simulating a Nondeterministic finite automaton
+Submission deadline: 
 
 Introduction
+∈ 
