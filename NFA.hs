@@ -1,3 +1,5 @@
+-- | Taken from: https://github.com/agomezl/Empty/blob/master/src/EAFIT/CB0081/Data/NFA.hs
+
 module NFA  where
 
 import Data.Set ( Set )
